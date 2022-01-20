@@ -1,32 +1,13 @@
-# Prerequisites
-*.d
+# PlatformIO temp data
+.pio/
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# These are currently empty, so we don't need them.
+test/
+include/
+lib/
 
-# Precompiled Headers
-*.gch
-*.pch
+# VSCode crap
+.vscode/
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+# macOS crap
+.DS_Store
